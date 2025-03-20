@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+  background: url(/images/images.jpeg) center/cover no-repeat fixed;
+}
 h1{
   background-color: #17004E;
   color: #FFFFFF;
@@ -38,6 +41,7 @@ img{
   object-fit: cover;
 }
 .score-board{
+  color: #1212FF;
   display: flex;
   justify-content: center;
   align-items: center;
